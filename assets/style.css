@@ -11,6 +11,7 @@ img {
 #slash{
     border-style:  groove;
     color: white;
+    margin-top: -100;
 }
 #Name h1 {
     text-align: center;
@@ -41,6 +42,7 @@ img {
 #achievements {
     margin-top: 300px;
     font-size: 20px;
+    padding-bottom: 300px;
 }
 
 #container1 {
@@ -67,26 +69,40 @@ img {
 #container2 {
     display: flex;
 }
-
-#chars3 {
-    margin-left: 20px; /* Adjusted for better alignment */
-}
-
-#chars4 {
-    margin-left: 20px; /* Adjusted for better alignment */
+#skills{
+    font-size: 25px;
+    padding-bottom: 300px;
 }
 
 #title2 h1 {
     text-align: center;
-    font-size: 25px;
-    background-color: rgb(47, 117, 202);
+    font-size: 45px;
+    color: rgb(101, 224, 19);
     padding: 40px;
+
 }
 
-.container3 h1 {
-    font-size: 25px;
-    background-color: skyblue;
+#chars3 {
+    margin-left: 100px; 
+    color: aliceblue;
+}
+
+#chars4 {
+    margin-left: 350px; 
+    color: aliceblue;
+}
+#chars5  {
+    margin-left: 350px; 
+    color: aliceblue;
+}
+a{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+#contacts h1 {
     text-align: center;
-    padding: 40px;
-    margin-top: 20px; /* Adjusted for better spacing */
+    font-size: 45px;
+    color: rgb(101, 224, 19);
+    padding-top: 100px;
 }
